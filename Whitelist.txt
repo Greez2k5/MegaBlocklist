@@ -170,6 +170,7 @@ pgl.yoyo.org
 pings.conviva.com
 placehold.it
 placeholdit.imgix.net
+play.google.com
 play.spotify.com
 players.brightcove.net
 pmd.cdn.turner.com
