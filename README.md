@@ -13,3 +13,7 @@ I got no clue how Github really works and how to handle big files, so i uploaded
 --------------------------------------------------------------------------------------------
 
 I just added a Whitelist that i created that works fine for me (no Apple support!)
+
+--------------------------------------------------------------------------------------------
+
+Whitelist updated
